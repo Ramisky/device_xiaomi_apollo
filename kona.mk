@@ -332,6 +332,7 @@ PRODUCT_PACKAGES += \
     init.qti.dcvs.sh \
     init.qti.media.sh \
     init.qti.qcv.sh \
+    init.safailnet.rc \
     mishow.sh \
     qca6234-service.sh \
 
